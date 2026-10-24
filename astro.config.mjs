@@ -4,8 +4,6 @@ import tailwindcss from "@tailwindcss/vite";
 import sitemap from "@astrojs/sitemap";
 import { SITE } from "./src/config.ts";
 
-import cloudflare from "@astrojs/cloudflare";
-
 // https://astro.build/config
 export default defineConfig({
   // A production domain is supplied by deployment rather than invented here.
@@ -22,5 +20,4 @@ export default defineConfig({
     plugins: [tailwindcss()],
   },
 
-  adapter: cloudflare(),
 });

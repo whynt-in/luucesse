@@ -24,6 +24,3 @@ pnpm-debug.log*
 .idea/
 .env.local
 .env.*.local
-
-# Cloudflare Wrangler
-.wrangler/
