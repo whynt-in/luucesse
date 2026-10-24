@@ -1,23 +1,17 @@
 ---
-title: Reporting
-tags: defined metrics, one dashboard, a Monday email
-summary: One dashboard with fifteen numbers at most, each with a written definition, an owner and the query behind it.
-art: bars
-order: 2
-priceFrom: "$8,000"
-duration: 4 to 6 weeks
+title: Brand strategy and content management
+tags: brand strategy, messaging, content management
+summary: Make your message clearer and keep the content around your brand working together.
+art: clusters
+order: 5
 deliverables:
-  - A metric glossary signed off by your finance lead
-  - One dashboard in the tool you already pay for
-  - A Monday email with the five numbers that moved most
-  - Training for the person who will maintain it
+  - Brand strategy
+  - Content management
+  - A clearer message for your audience
 ---
 
-Most companies we meet have forty dashboards and three definitions of revenue. We start by writing down what each number means, then build the smallest report that answers the questions asked in your weekly meeting.
+Your brand is more than a logo. Brand strategy helps clarify how your business presents itself, while content management helps keep that message consistent across the places customers find you.
 
-## How we build it
+## Build recognition over time
 
-- Interview the five to ten people who use the numbers
-- Write one definition per metric, next to the query that computes it
-- Build the dashboard in Looker Studio, Power BI, Metabase or Tableau, whichever you have
-- Retire the reports nobody opened in the last ninety days
+We connect the strategy to practical content, so your website, social platforms, reels, and posts feel like parts of the same business.

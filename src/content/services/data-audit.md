@@ -1,27 +1,17 @@
 ---
-title: Data audit
-tags: inventory, cross-system joins, one clean customer table
-summary: We list every source your reports depend on, test how well they agree, and fix the joins that break most often.
+title: Websites and domain
+tags: website design, domain, digital presence
+summary: Establish a professional online home for your business with a website and a domain based on your work.
 art: grid
 order: 1
-priceFrom: "$6,500"
-duration: 3 weeks
 deliverables:
-  - A map of every data source, its owner and its refresh time
-  - Row-level checks that run every night
-  - One customer table that matches sales, billing and support
-  - A written list of what we could not fix, and why
+  - A website shaped around your business
+  - A domain aligned with your work
+  - A clear place for customers to learn more
 ---
 
-Most reporting problems start upstream. The CRM counts a customer once per contact, billing counts one per invoice address, and the two never agree on how many customers you have. We find those mismatches before anyone builds a forecast on top of them.
+Your website is often the first place a potential customer looks. We help put your company on the digital map with a website that explains what you do and gives your brand a credible online presence.
 
-## What we check
+## A clear starting point
 
-- Duplicates and orphaned records
-- Fields that changed meaning over time, like a "region" that was a state until 2021 and a sales territory after
-- Gaps: days, stores or products with no rows at all
-- Refresh times: which report is a day old and which is a week old
-
-## What you keep
-
-The checks are plain SQL that runs in your warehouse every night. When one fails, it emails the owner of that source, not us.
+We can help with the website and the domain it lives on, so customers have a direct place to find your business beyond social platforms.

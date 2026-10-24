@@ -2,7 +2,6 @@
 /** 13. Footer over an animated 3D field of dots (canvas, src/scripts/scenes.ts). */
 import { SITE } from "../config";
 
-const { address } = SITE;
 const year = new Date().getFullYear();
 ---
 
@@ -13,10 +12,7 @@ const year = new Date().getFullYear();
     <div class="f-touch">
       <p class="f-big">get in touch<span class="text-accent">.</span></p>
       <a href={SITE.cta.href} class="btn btn-primary f-btn">{SITE.cta.label}</a>
-      <address class="f-address">
-        {address.street}<br />
-        {address.city}, {address.region} {address.postalCode}
-      </address>
+      <p class="f-address">{SITE.locations.join(" · ")}</p>
     </div>
 
     <div class="f-col f-enquiries">
@@ -43,8 +39,7 @@ const year = new Date().getFullYear();
     </nav>
 
     <div class="f-legal">
-      <p>&copy; {year} {SITE.name}. A made-up business.</p>
-      <p class="f-small">Orrery theme for Astro. Forms by <a href="https://formgong.com" class="underline underline-offset-4">Formgong</a>.</p>
+      <p>&copy; {year} {SITE.name} — content creation and managing agency.</p>
     </div>
     <ul class="f-social">
       {
@@ -72,7 +67,7 @@ const year = new Date().getFullYear();
     z-index: -1;
     width: 100%;
     height: 100%;
-    color: #8582e0;
+    color: var(--c-art);
   }
   .footer-rule {
     position: absolute;

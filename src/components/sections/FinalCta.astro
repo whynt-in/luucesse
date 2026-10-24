@@ -6,18 +6,18 @@ import { SITE } from "../../config";
 
 <section class="final-cta" aria-labelledby="cta-title">
   <div class="container-x cta-col">
-    <p class="cta-kicker">Have a decision coming up?</p>
+    <p class="cta-kicker">Ready to grow your presence?</p>
     <FillLines
       as="h2"
       id="cta-title"
       class="cta-title"
-      lines={["Tell us the *decision* you are stuck on.", "We will say on one call if *data can help*."]}
+      lines={["Tell us what your *business needs*.", "Let’s build a stronger *digital presence*."]}
       ranges={[
         [20, 50],
         [30, 60],
       ]}
     />
-    <a href={SITE.cta.href} class="btn btn-primary cta-btn">Get started</a>
+    <a href={SITE.cta.href} class="btn btn-primary cta-btn">{SITE.cta.label}</a>
   </div>
 </section>
 

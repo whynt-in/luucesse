@@ -1,23 +1,17 @@
 ---
-title: Experiments
-tags: A/B tests, sample sizes, honest readouts
-summary: We design tests that can answer the question, size them before launch and report the result even when it is flat.
-art: bells
-order: 5
-priceFrom: "$5,500"
-duration: from 2 weeks per test
+title: Reels and posts
+tags: professional shooting, editing, reels, posts
+summary: Create professional visual content that shows your work and gives your audience a reason to stop and look.
+art: bars
+order: 3
 deliverables:
-  - "A one-page plan per test: question, metric, sample size, stop date"
-  - Randomization checks on day one
-  - A readout with the effect, its range and what we would do next
-  - A log of every test you have run
+  - Professional shooting
+  - Reels and posts
+  - Editing shaped for social platforms
 ---
 
-Half the tests we are asked to review were too small to detect the effect they were looking for. We fix the sample size and the stop date before launch, so nobody ends a test early because the first week looked good.
+Good content gives people a better sense of your business before they contact you. We support professional shooting and editing for reels and posts about your work.
 
-## What we test
+## Show the work behind the business
 
-- Prices, offers and free-shipping thresholds
-- Checkout and sign-up changes
-- Email timing and content
-- Sales scripts, by randomizing which reps use them
+From planning the idea to preparing the finished post, the goal is content that feels specific to your brand and useful to the people you want to reach.

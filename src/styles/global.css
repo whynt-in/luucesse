@@ -2,29 +2,28 @@
 @import "./effects.css";
 
 /* ------------------------------------------------------------------
-   Design tokens. Navy-black ground, near-white type, a mid grey for text
-   that has not "filled" yet, and one accent (from src/config.ts, set on
-   <html> by the layout). Every text pair below is at least 4.5:1.
+   Design tokens. Warm ivory ground, deep green type, and one brand accent
+   from src/config.ts, set on <html> by the layout.
 ------------------------------------------------------------------ */
 :root {
-  --accent: #dcfd35;
-  --accent-text: #040319;
-  --c-bg: #040319; /* ground */
-  --c-surface: #0d0c26; /* cards, fields */
-  --c-white: #ffffff; /* hero heading, stat labels */
-  --c-ink: #eeeeee; /* text, 17:1 on the ground */
-  --c-muted: #949494; /* secondary and unfilled text, 6.7:1 */
-  --c-dim: #949494;
-  --c-line: rgb(255 255 255 / 0.5); /* 1px dividers */
-  --c-art: #5c5b7f; /* decorative line art (orbits) */
-  --c-danger: #ff9a8a;
-  --c-success: #dcfd35;
+  --accent: #003932;
+  --accent-text: #fefff1;
+  --c-bg: #fefff1; /* brand background */
+  --c-surface: #f5f5e8; /* cards, fields */
+  --c-white: #003932; /* primary headings */
+  --c-ink: #003932; /* primary text */
+  --c-muted: #42635d; /* secondary text */
+  --c-dim: #42635d;
+  --c-line: rgb(0 57 50 / 0.28); /* 1px dividers */
+  --c-art: #6d9189; /* decorative line art */
+  --c-danger: #9b3025;
+  --c-success: #003932;
   --radius: 12px; /* cards, buttons, panels */
   --radius-media: 24px; /* pictures */
   --header-h: 90px;
   --ease-out: cubic-bezier(0.22, 1, 0.36, 1);
   --ease-in-out: cubic-bezier(0.65, 0, 0.35, 1);
-  color-scheme: dark;
+  color-scheme: light;
 }
 
 @theme {
@@ -173,10 +172,10 @@
   }
   .btn-secondary {
     color: var(--c-ink);
-    border: 1px solid rgb(255 255 255 / 0.3);
+    border: 1px solid var(--c-line);
   }
   .btn-secondary:hover {
-    border-color: rgb(255 255 255 / 0.6);
+    border-color: var(--accent);
   }
   /* Dark button on accent fills. */
   .btn-dark {
@@ -190,7 +189,7 @@
   .card {
     position: relative;
     background: var(--c-surface);
-    border: 1px solid rgb(255 255 255 / 0.16);
+    border: 1px solid var(--c-line);
     border-radius: var(--radius);
   }
 
@@ -203,7 +202,7 @@
   }
   .field {
     @apply block w-full rounded-xl border bg-bg px-4 py-3 text-base text-ink;
-    border-color: rgb(255 255 255 / 0.2);
+    border-color: var(--c-line);
     min-height: 3.25rem;
     transition: border-color 0.2s;
   }
@@ -211,7 +210,7 @@
     color: var(--c-dim);
   }
   .field:hover {
-    border-color: rgb(255 255 255 / 0.4);
+    border-color: color-mix(in oklab, var(--accent) 60%, var(--c-bg));
   }
   .field:focus-visible {
     outline: 2px solid color-mix(in oklab, var(--accent) 45%, transparent);

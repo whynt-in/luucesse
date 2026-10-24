@@ -1,22 +1,17 @@
 ---
-title: Customer analysis
-tags: segments, churn, lifetime value, who to call first
-summary: Segments built from what customers buy and how often, plus a churn score your account managers can use every week.
-art: clusters
+title: Meta and Google Ads
+tags: Meta Ads, Google Ads, digital promotion
+summary: Promote your work through Meta and Google Ads when paid visibility is the right fit for your business.
+art: bells
 order: 6
-priceFrom: "$10,000"
-duration: 5 to 7 weeks
 deliverables:
-  - Four to six segments with a plain description of each
-  - A churn score for every active account, refreshed weekly
-  - Lifetime value by acquisition channel
-  - The twenty accounts most at risk, in your inbox every Monday
+  - Meta Ads promotion
+  - Google Ads promotion
+  - Campaign support connected to your content
 ---
 
-Segments only help if someone treats each one differently. We build them from order history, not demographics, and agree with your team which action goes with each segment before we hand them over.
+Organic content and paid promotion can work together. We support promotion through Meta and Google Ads to help put your message in front of more potential customers.
 
-## Questions we answer
+## Promote with purpose
 
-- Which channel brings the customers who stay longest
-- What the last three orders of a customer who left look like
-- How much you can spend to win back a lapsed account
+Advertising works best when the destination and message are clear. We can connect campaigns to the website, content, and social presence your business is building.

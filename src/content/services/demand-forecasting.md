@@ -1,27 +1,17 @@
 ---
-title: Demand forecasting
-tags: weekly forecasts, stock levels, staffing plans
-summary: Forecasts by product and location with a range around every number, so buyers can see how sure the model is.
+title: Social media management
+tags: social media, content planning, consistent presence
+summary: Keep your social channels active and focused with practical content management for your business.
 art: forecast
-order: 3
-priceFrom: "$12,000"
-duration: 6 to 8 weeks
+order: 2
 deliverables:
-  - A weekly forecast by product and location, 13 weeks ahead
-  - An 80% range around every number
-  - A back-test against the last two years
-  - A plain Python job that reruns every Monday
+  - Social media presence management
+  - Content focused on your work
+  - A consistent way to reach more people
 ---
 
-We forecast whatever drives your costs: units, orders, calls or staff hours. Each forecast comes with a back-test, so you can see how the model would have done last year before you trust it this year.
+Social platforms can help your company reach new people, but only when your presence is clear and maintained. We help manage the content and platforms that represent your business online.
 
-## What we model
+## Make your work easier to discover
 
-- Seasonality and holidays, including the ones that move every year
-- Promotions and price changes, if you have the history
-- Stock-outs, which hide real demand in your sales data
-- New products, using the closest existing ones as a guide
-
-## When we say no
-
-With less than eighteen months of history, a forecasting model rarely beats a well-kept spreadsheet. We tell you that in the first week and bill for the first week only.
+The focus is simple: communicate what you do, show your work, and put your business in front of more potential customers.

@@ -1,22 +1,17 @@
 ---
-title: Pricing
-tags: price tests, discount rules, gross margin
-summary: We estimate how demand responds to price for each product group, then set prices and discount limits from that.
+title: AI-powered assistant calls
+tags: AI voice calls, customer conversations, assistant
+summary: Add AI-powered assistant calls as a practical way to support how your business communicates with customers.
 art: curve
 order: 4
-priceFrom: "$14,000"
-duration: 6 to 10 weeks
 deliverables:
-  - Price response estimates by product group
-  - Recommended prices, each with its effect on margin
-  - Discount rules your sales team can apply without asking
-  - A test plan for the changes we are least sure about
+  - AI-powered assistant calls
+  - A more responsive customer touchpoint
+  - An approach aligned with your business
 ---
 
-Most price lists were set once and adjusted by feel. We use your order history to estimate how volume moves when price moves, then set prices where margin is highest without losing the customers you want to keep.
+LUUCESSE offers AI-powered assistant calls as part of a broader digital presence. They can help your business handle customer conversations with a useful, modern tool.
 
-## What we usually find
+## A practical digital tool
 
-- Discounts given to customers who would have paid full price
-- Products priced below cost once shipping and returns are counted
-- Price steps that push customers down to the cheaper tier
+The right setup depends on what your business needs. Contact us to discuss where an AI-powered assistant could fit.
