@@ -1,0 +1,28 @@
+# Luucesse
+
+> Luucesse is a content creation and managing agency helping businesses build a stronger digital presence.
+
+## Services
+
+- [Websites and domain](/services/#data-audit): Website design and domain support to give a business a clear online home.
+- [Social media management](/services/#demand-forecasting): Ongoing social media and content management to help businesses reach more people.
+- [Reels and posts](/services/#experiments): Professional shooting, editing, reels, and posts about a business's work.
+- [AI-powered assistant calls](/services/#pricing): AI-powered assistant calls as a practical customer communication tool.
+- [Brand strategy and content management](/services/#reporting): Brand strategy and consistent content management across digital channels.
+- [Meta and Google Ads](/services/#customer-analysis): Paid promotion through Meta Ads and Google Ads.
+
+## Website
+
+- [Home](/): Luucesse's overview and digital growth approach.
+- [About](/about/): Service areas and the agency's approach to content and digital presence.
+- [Services](/services/): Full service descriptions.
+- [Contact](/contact/): Contact Luucesse about a business's digital needs.
+
+## Service areas
+
+Luucesse's documented service areas are Alappuzha and Pathanamthitta in Kerala, plus Silvassa and Dadra and Nagar Haveli.
+
+## Contact
+
+- Phone: +91 94479 56110
+- Email: luccesse@gmail.com
